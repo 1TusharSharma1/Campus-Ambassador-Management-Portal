@@ -59,4 +59,3 @@ CAMP provides a dedicated dashboard/portal for campus ambassadors/members, offer
 A campus ambassador, often referred to as a CA, is a student representative who serves as a liaison between the educational institution and an organization. They promote the organization's activities, engage with fellow students, and help establish a strong presence on campus.
 
 To learn more about campus ambassadors, you can watch this [video](https://drive.google.com/file/d/1hv2VvXPc4_Ndyf0FrzZIpEnqkCL1Rph8/view).
-To learn more about campus ambassadors, you can watch this [video](https://example.com/video-link).
